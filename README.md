@@ -1,0 +1,1 @@
+ To use the code, save it in a Python file (e.g., extract_info.py). Make sure you have the requests library installed (pip install requests). Then, run the script, enter the website URL when prompted, and it will extract the phone numbers, email addresses, and links from the website. The extracted email addresses will be saved to a file named extracted_emails.txt.
